@@ -1,10 +1,3 @@
-/* File Name: BSTIterator.hpp
- * Overview:  This file contains the definition of the object BSTIterator, the 
- *            constructor and some other realting methods.
- * Author Name: Hantang Zhou (cs100fji) & Nang Chen (cs100fao)
- * Assignment: PA1
- * Date: Oct 4th, 2017
- */
 #ifndef BSTITERATOR_HPP
 #define BSTITERATOR_HPP
 #include "BSTNode.hpp"
