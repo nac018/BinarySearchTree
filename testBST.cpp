@@ -1,10 +1,3 @@
-/* File Name: testBST.hpp
- * Overview:  This file contains the main function, which read a list of number
- *            as input and prompt user to test the progrem
- * Author Name: Hantang Zhou (cs100fji) & Nang Chen (cs100fao)
- * Assignment: PA1
- * Date: Oct 4th, 2017
- */
 #include "BST.hpp"
 #include "BSTIterator.hpp"
 
